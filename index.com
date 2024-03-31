@@ -10,7 +10,8 @@
 
 </header>
 
-<body style="background-color:LightSalmon"> | | |<h1 style="font-size:50px; color: white;
+<body style="background-color:LightSalmon"> 
+<h1 style="font-size:50px; color: white;
 
 background-color: Khaki; text-align:center">Піцерія<br/>
 
@@ -31,14 +32,7 @@ background-color: Khaki; text-align:center">Піцерія<br/>
 </p>
 
 <p>
-
-<img src=""height="250"/>
-
-
-
-</p>
-
-<p><img src="https://pizza.od.ua/upload/resize_cache/webp/ block/043/043ff81c20912fff40b0eb62d575df31.webp"height="250/
+<img src="https://pizza.od.ua/upload/resize_cache/webp/ block/043/043ff81c20912fff40b0eb62d575df31.webp"height="250/
 
 </p>
 
